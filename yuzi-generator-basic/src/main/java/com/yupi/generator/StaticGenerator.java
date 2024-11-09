@@ -1,7 +1,5 @@
 package com.yupi.generator;
-
 import cn.hutool.core.io.FileUtil;
-
 import java.io.File;
 
 public class StaticGenerator {
